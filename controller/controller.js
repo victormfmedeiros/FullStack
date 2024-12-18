@@ -1,0 +1,1 @@
+const { produtos } = require('./database/database')
