@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/victormfmedeiros/FullStack/issues"
   },
-  "homepage": "https://github.com/victormfmedeiros/FullStack#readme"
+  "homepage": "https://github.com/victormfmedeiros/FullStack#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
